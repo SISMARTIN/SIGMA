@@ -10,5 +10,5 @@ package Vista;
  * @author ADMIN
  */
 public class Prueba {
-    
+    //HOLA MUNDO
 }
