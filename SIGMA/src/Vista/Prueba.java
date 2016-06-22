@@ -27,6 +27,7 @@ public class Prueba {
         try {
 
 //                Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+// PRUEBA JOSE.HERRERA VES
 
             conexion = DriverManager.getConnection("jdbc:ucanaccess://F:\\ACCESS\\Trimasa.accdb" );
 
